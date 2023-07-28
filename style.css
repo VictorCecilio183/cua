@@ -1,0 +1,31 @@
+body{
+    font-family: 'VT323',monospace;
+    background-image: radial-gradient(circle at 72.33% 111.35%, #ff88eb 0, #ff85d7 3.85%, #ff85c3 7.69%, #ff87af 11.54%, #ff8b9b 15.38%, #ff9188 19.23%, #ff9976 23.08%, #ffa165 26.92%, #ffa954 30.77%, #ffb244 34.62%, #ffba35 38.46%, #ffc226 42.31%, #ffca19 46.15%, #f8d110 50%, #e6d712 53.85%, #d2dd1d 57.69%, #bde22c 61.54%, #a7e73c 65.38%, #8eeb4d 69.23%, #72ee5f 73.08%, #4bf172 76.92%, #00f385 80.77%, #00f599 84.62%, #00f7ae 88.46%, #00f8c3 92.31%, #00f9d8 96.15%, #00f9ed 100%);
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
